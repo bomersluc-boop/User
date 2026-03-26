@@ -1,6 +1,6 @@
-# 🌊 Hey, ik ben [Jouw Naam]
+# 🌊 Hey, ik ben Luc
 
-**Vibe Coder | Creative Developer | [Andere passie, bijv. Digital Artist]**
+**Vibe Coder | Creative Developer | Calisthenics fanatiekeling**
 
 Ik geloof dat code meer is dan alleen logica; het gaat om de flow, de esthetiek en de ervaring. Ik bouw projecten die niet alleen werken, maar ook goed voelen.
 
