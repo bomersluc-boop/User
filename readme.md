@@ -31,7 +31,7 @@ Ik kies mijn tools op basis van de flow die ze bieden:
 
 ### 📊 My Coding Rhythm
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bomersluc-boop&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Luc's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bomersluc-boop&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Luc's GitHub Stats" />
 </p>
 
 ---
