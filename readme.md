@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/username/repository/main/banner.png" alt="Luc Vibe Coder Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/bomersluc-boop/repository/main/banner.png" alt="Luc Vibe Coder Banner" width="100%">
 </p>
 
 # 🌊 Hey, ik ben Luc
